@@ -31,7 +31,7 @@ bottom: 27px;
     height: 355px;
 }
 .img1{  
-   background: url("/home-position-6.webp");
+   background: url("home-position-6.webp");
    background-size: cover;
    background-position: center;
 
@@ -158,20 +158,20 @@ cursor: pointer;
 
 
 .img2{
-    background: url("/woman-fills-water-jug.webp");
+    background: url("woman-fills-water-jug.webp");
     background-size: cover;
     background-position: center;
  }
 
  .img3{
-    background: url("/coca-cola-racial-equality-1440x848.webp");
+    background: url("coca-cola-racial-equality-1440x848.webp");
     background-size: cover;
     background-position: center;
 
 
  }
  .img4{
-    background: url("/coca-cola-portfolio-homepage-1440x848.webp");
+    background: url("coca-cola-portfolio-homepage-1440x848.webp");
     background-size: cover;
     background-position: center;
     position: relative;
