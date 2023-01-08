@@ -303,7 +303,7 @@ u:hover{
 }
 .logo:hover{
     cursor: pointer;
-    text-decoration: greenyellow;
+    text-decoration: rgb(255, 47, 193);
     text-decoration-color: blue;
 }
 .logo1{
